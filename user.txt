@@ -1,0 +1,7 @@
+admin,admin
+& c:/python312/python.exe "c:/users/tawan/dropbox/as24020014659/1 - introduction to programming/l1t19 - capstone project - files/task_manager.py/task_manager.py",& C:/Python312/python.exe "c:/Users/tawan/Dropbox/AS24020014659/1 - Introduction to programming/L1T19 - Capstone Project - Files/task_manager.py/task_manager.py"
+ksi,1234
+ksi,12345
+vikstar123,vikddfg
+abcdefg,HIJK
+kungfukenny69,123456
