@@ -34,10 +34,4 @@ This is a simple task manager application written in Python that allows users to
 - `task_overview.txt`: Contains the report about tasks.
 - `user_overview.txt`: Contains the report about users.
 
-## Functions
 
-### count_users
-Reads from `user.txt` and counts the number of users.
-```python
-def count_users():
-    # Returns the number of users in 'user.txt'
