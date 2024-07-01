@@ -1,0 +1,8 @@
+Total number of users: 4
+Username: admin
+Total number of tasks assigned: 2
+Percentage of tasks assigned: 100.00%
+Percentage of completed tasks: 0.00%
+Percentage of uncompleted tasks: 100.00%
+Percentage of overdue tasks: 100.00%
+
